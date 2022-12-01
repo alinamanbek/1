@@ -3,4 +3,4 @@
 //
 
 #include "alina.h"
-
+cout<<" Alina";
